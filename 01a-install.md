@@ -51,7 +51,7 @@ However, this is completely optional as Anaconda is an all-in-one package manage
 
 Did you install Python 2 or 3? Why?  
 
->> Pyhton 3 based on recommendation.
+>> Python 3 based on recommendation.
 
 ### Q2. Which Python Version Installed   
 
