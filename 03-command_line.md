@@ -44,7 +44,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+**ls** lists all files and directories in the working directory
+**ls -a** lists all contents, including hidden files and directories
+**ls -l** shows file or directory, size, modified date and time, file or folder name and owner of file and its permission
+**ls -lh** modifies the format of the file size (human readable) of the **ls -l** command
+**ls -lah** includes a hidden files and directories to the **ls -lh** command
+**ls	-t** order files and directories by the time they were last modified
+**ls -Glp** long listing format with no group names and appended “/” indicator to the directories
 
 ---
 
