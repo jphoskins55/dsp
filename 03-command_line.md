@@ -20,7 +20,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+pwd outputs the current working directory
+mkdir creates a new directory in the working directory
+rm -r deletes a directory and all of it's child directories
+touch sample creates a file in the working directory named sample
+rm deletes a file
+mv moves or renames a file
+ls -a lists all of the contents including hidden files and directories
+cp copies files
+cat outputs the contents of a file to the terminal
+sort orders the input alphabetically
 
 ---
 
