@@ -58,11 +58,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-**ls -d** displays only directories
-**ls -R** displays subdirectories as well
-**ls -r** displays files in reverse order
-**ls -t** displays newest file first
-**ls -x** displays files as rows across the screen
+**ls -d** displays only directories  
+**ls -R** displays subdirectories as well  
+**ls -r** displays files in reverse order  
+**ls -t** displays newest file first  
+**ls -x** displays files as rows across the screen  
 
 ---
 
